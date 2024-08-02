@@ -1,0 +1,19 @@
+{
+  "name": "jquery-noty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jquery.noty.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pneudart/jquery-noty.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pneudart/jquery-noty/issues"
+  },
+  "homepage": "https://github.com/pneudart/jquery-noty#readme"
+}
